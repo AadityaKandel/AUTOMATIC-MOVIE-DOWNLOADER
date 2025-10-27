@@ -159,7 +159,7 @@ goto cleaner
 
 :errorphase
 cls
-Copyright (C) YIFY / YTS
+echo Copyright (C) YIFY / YTS
 echo This script is an unofficial tool and relies entirely on their service.
 echo.
 echo.
@@ -174,4 +174,5 @@ goto quit
 echo.
 echo.
 pause
+
 exit
